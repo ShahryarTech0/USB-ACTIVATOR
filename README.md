@@ -26,11 +26,7 @@ python main.py
 
 
 ### Additional
-1. [Project Report](src/gui/assets/pr.pdf)
-2. [Project PPT](src/gui/assets/pp.pdf)
-3. [Internship Report](src/gui/assets/ir.pdf)
-4. [Task Report](src/gui/assets/tr.pdf)
-5. [The Team](src/gui/assets/Dev.jpg)
+1. [Project Report]
 
 
 
